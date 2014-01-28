@@ -12,7 +12,7 @@ Gem::Specification.new do |s|
   s.license = 'MIT'
   s.authors = 'Richard Cook'
   s.email = 'rcook@rcook.org'
-  s.homepage = 'https://github.com/rcook/jquery-filedownload-rails/'
+  s.homepage = 'https://github.com/rcook/jquery_file_download-rails/'
 
   s.files = Dir['{app,config,db,lib}/**/*'] + ['LICENSE', 'Rakefile', 'README.md', 'CHANGELOG.md']
   s.require_path = 'lib'
