@@ -43,6 +43,11 @@ class DownloadController < ApplicationController
 end
 ```
 
+# Samples
+
+* See [jquery_file_download-rails-samples](https://github.com/rcook/jquery_file_download-rails-samples)
+for detailed step-by-step instructions and sample application.
+
 # Usage
 
 With the gem installed, the `$.fileDownload` jQuery plugin is available in the browser.

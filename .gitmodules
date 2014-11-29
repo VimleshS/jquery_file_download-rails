@@ -1,3 +1,6 @@
 [submodule "jquery.fileDownload"]
 	path = jquery.fileDownload
 	url = https://github.com/johnculviner/jquery.fileDownload.git
+[submodule "samples"]
+	path = samples
+	url = https://github.com/rcook/jquery_file_download-rails-samples.git
