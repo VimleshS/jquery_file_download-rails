@@ -1,5 +1,10 @@
 # Change log
 
+## 0.0.2: Update to jquery.fileDownload 1.4.3
+
+* Updated to latest version of jquery.fileDownload
+* Updated README to include link to improved documentation/samples
+
 ## 0.0.1: Trivial fixes
 
 * Fixed home page link in gemspec
